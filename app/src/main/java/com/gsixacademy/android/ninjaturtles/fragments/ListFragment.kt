@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.recycler_turtles.view.recycler_main
 class ListFragment:Fragment() {
     var caracterList:CaracterModel?=null
     lateinit var caracterAdapter:CaracterAdapter
-
+1
 
 
     override fun onCreateView(
